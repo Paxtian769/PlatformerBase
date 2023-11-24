@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://bvx44037doyip"]
+
+[ext_resource type="PackedScene" uid="uid://b6a2ntk3nm78k" path="res://PowerUps/collectible_item.tscn" id="1_efrnq"]
+[ext_resource type="Texture2D" uid="uid://b02wnccusqbsw" path="res://PowerUps/WallJump.png" id="2_reegv"]
+
+[node name="WallJump" instance=ExtResource("1_efrnq")]
+texture = ExtResource("2_reegv")

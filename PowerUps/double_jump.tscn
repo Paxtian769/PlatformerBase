@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://cd37xc1v7j537"]
+
+[ext_resource type="PackedScene" uid="uid://b6a2ntk3nm78k" path="res://PowerUps/collectible_item.tscn" id="1_lrvoi"]
+[ext_resource type="Texture2D" uid="uid://fqwvcrxywidm" path="res://PowerUps/DoubleJumpIcon.png" id="2_tnccb"]
+
+[node name="DoubleJump" instance=ExtResource("1_lrvoi")]
+texture = ExtResource("2_tnccb")

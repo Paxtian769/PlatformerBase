@@ -1,0 +1,14 @@
+CollisionShape2D
+StaticBody2D
+MeshInstance2D
+CharacterBody2D
+Area2D
+Sprite2D
+Label
+HBoxContainer
+CanvasLayer
+Node2D
+Camera2D
+Marker2D
+ColorRect
+RigidBody2D

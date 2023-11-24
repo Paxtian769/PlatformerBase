@@ -1,0 +1,7 @@
+[gd_scene load_steps=3 format=3 uid="uid://5go2wcu2vcup"]
+
+[ext_resource type="PackedScene" uid="uid://b6a2ntk3nm78k" path="res://PowerUps/collectible_item.tscn" id="1_hm34a"]
+[ext_resource type="Texture2D" uid="uid://dokukwb66pvht" path="res://PowerUps/SpeedRun.png" id="2_lvvlf"]
+
+[node name="SpeedRun" instance=ExtResource("1_hm34a")]
+texture = ExtResource("2_lvvlf")

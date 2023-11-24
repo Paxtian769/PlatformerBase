@@ -1,0 +1,11 @@
+res://Levels/level_1.tscn
+res://Player/player.gd
+res://Player/player.tscn
+res://Player/CharacterController.gd
+res://wall_jump.tscn
+res://PowerUps/wall_jump.tscn
+res://Globals.gd
+res://PowerUps/collectible_item.gd
+res://Levels/Marker2D.gd
+res://PowerUps/collectible_item.tscn
+res://Levels/UI.gd
